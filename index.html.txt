@@ -65,7 +65,7 @@
     <h1>Your Coupon</h1>
 
     <div class="coupon-box">
-        <img src="844551A2-F653-4701-98C0-6E84A9240276.jpeg" alt="Coupon Image">
+        <img src="View recent photos.jpg" alt="Coupon Image">
         <div class="timer-section" id="countdown">05:00</div>
     </div>
 
